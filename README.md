@@ -19,7 +19,7 @@ How to Run:
 
     Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/elangovand7666/Currency-convertion-UDP
 
 Install the required dependencies:
 
